@@ -9,7 +9,7 @@ public class Testlog4j {
 	
 	public static void main(String[] args) {
 		 
-		logger.info("This is info : ");
+		logger.info("log4jTest from solr");
 	}
 
 }
